@@ -11,12 +11,8 @@
   <h1 style="color: pink"> DOMINIQUE IS LEARNING TO CODE TODAY!</h1>
   #features
   <h1 style="color: red"> WITH THE DREAM LAB AT UPENN </h1>
-  ##features
   <h1 style="color: purple">  WEDNESDAY JUNE 15 2022 </h1>
-  ###features
   <h1 style="color: green">  TESTING TESTING </h1>
-  -testing
-  -testing
   <iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/?view=TermsRadio&corpus=dd18b2370da63905eb6af017e36a26f0'></iframe>
 </body> 
 </html>
